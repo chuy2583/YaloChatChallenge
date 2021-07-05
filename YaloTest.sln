@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YaloTest", "YaloTest\YaloTest.csproj", "{E72C52D7-2C52-4251-B084-B38DCCD7BA34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E72C52D7-2C52-4251-B084-B38DCCD7BA34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E72C52D7-2C52-4251-B084-B38DCCD7BA34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E72C52D7-2C52-4251-B084-B38DCCD7BA34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E72C52D7-2C52-4251-B084-B38DCCD7BA34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEE3DB79-A689-484B-A4AD-8F7CB8FC4D5C}
+	EndGlobalSection
+EndGlobal
